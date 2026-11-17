@@ -63,7 +63,7 @@ ai-log-analysis-assistant/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/malekmisellati/ai-log-analysis-assistant.git
 cd ai-log-analysis-assistant
 ```
 
